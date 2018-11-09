@@ -1,5 +1,5 @@
 ## Doki RNN Service
-The service that generates Ren'Py code for the [RNN mod for DDLC](https://github.com/stephwag/doki-rnn).
+The service that generates Ren'Py code for the [RNN mod for DDLC](https://github.com/stephwag/doki-rnn). The model was trained using [textgenrnn](https://github.com/minimaxir/textgenrnn).
 
 ## License
 
