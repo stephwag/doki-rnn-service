@@ -1,0 +1,4 @@
+tensorflow
+textgenrnn
+asyncio
+aiohttp
